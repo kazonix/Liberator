@@ -1,6 +1,6 @@
 # Liberator
 
-![Preview](media/preview.png)
+![Preview](preview.png)
 
 This is a further development of Liberator for [Operation Throwback](https://puppetino.github.io/Throwback-FAQ/index.html). The original developer was Gamecheat13! <br/>
 The Liberator includes Unlock-All and many other modifications for Y1S0 up to Y4S4.
