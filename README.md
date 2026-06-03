@@ -2,30 +2,31 @@
 
 ![Preview](media/preview.png)
 
-A decrypted version of the [OTB](https://puppetino.github.io/Throwback-FAQ/index.html) tool **Liberator**, which includes Unlock-All and many other modifications.
+This is a further development of Liberator for [Operation Throwback](https://puppetino.github.io/Throwback-FAQ/index.html). The original developer was Gamecheat13! <br/>
+The Liberator includes Unlock-All and many other modifications for Y1S0 up to Y4S4.
 
 > [!IMPORTANT]
-> Some features may not work as expected. The encrypted version of `0.0.0.22` already exhibited these issues. The original developer was Gamecheat13!
+> Some features may not work as expected. The encrypted version of `0.0.0.22` already exhibited these issues and may be fixed soon.
 
 ## Requirements
 
-- A supported Rainbow Six Siege build with BattlEye disabled
+- A supported Rainbow Six Siege season with BattlEye disabled
 - [.NET](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) Framework 4.8
 - Administrator rights, because Liberator writes to the game storage
 
 ## Installation
 
 1. Download `Liberator.exe` from the [latest release](https://github.com/Xeralin/Liberator/releases)
-2. Run `Liberator.exe` and start Rainbow Six Siege in either order
+2. Run `Liberator.exe` and launch a supported Rainbow Six Siege season in either order
 3. Liberator attaches once the game reaches the main menu
 
 > [!NOTE]
-> **Do you use Linux?** Liberator is managed by [Mila](https://github.com/Xeralin/Mila). When you download a season, confirm the prompt *Enable Liberator?* by pressing `Y`, then launch your game via Steam.
+> **On Linux?** Liberator is managed by [Mila](https://github.com/Xeralin/Mila). When you download a season, confirm the prompt *Enable Liberator?* by pressing `Y`.
 
 ## Building
 
-You need the [.NET SDK](https://dotnet.microsoft.com/download). Visual Studio is optional. <br/>
-The output is `Liberator.exe` in `Liberator/bin/x64/Release/net48/`.
+You need the [.NET SDK](https://dotnet.microsoft.com/download), but Visual Studio is optional. <br/>
+The final version is located in `Liberator/bin/x64/Release/net48/`.
 
 ```sh
 git clone https://github.com/Xeralin/Liberator.git
